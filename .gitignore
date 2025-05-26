@@ -1,0 +1,9 @@
+.env
+node_modules
+
+# Expain why we ignore .env file
+# .env file contains environment variables for the project
+# We don't want to commit it to the repository
+# We will use it to store environment variables for the project
+# We will not commit it to the repository
+# We will not commit it to the repository
